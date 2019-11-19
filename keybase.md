@@ -53,16 +53,4 @@ hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgX5UBMVYA8Yw1FNo3yWlm+/p5XnWZuweX
 
 And finally, I am proving ownership of the github account by posting this as a gist.
 
-### My publicly-auditable identity:
-
-https://keybase.io/ethanyang
-
-### From the command line:
-
-Consider the [keybase command line program](https://keybase.io/download).
-
-```bash
-# look me up
-keybase id ethanyang
-```
 
